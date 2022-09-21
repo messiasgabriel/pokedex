@@ -21,7 +21,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/messiasgabriel/pokedex/main/images/Screenshot.png)
 
 Pokedex to learn how to use a API and improve my JavaScrip skills.
 
